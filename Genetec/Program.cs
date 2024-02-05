@@ -100,7 +100,6 @@ public class Scheduler : IDisposable
             //task.Calculate();
             await task.CalculateAsync(); // CPU usage is never > 20% when using CalculateAsync 
             await timer.WaitForNextTickAsync(cancellationToken);
-            cancellationToken.Cancel();
         }
     }
 
