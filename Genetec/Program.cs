@@ -90,11 +90,6 @@ public class Scheduler : IDisposable
     public static async Task PeriodicCalculationAsync(SchedulerTask task, TimeSpan interval, CancellationToken cancellationToken)
     {
         using PeriodicTimer timer = new(interval);
-        if (cancellationToken.IsCancellationRequested)
-        {
-            Console.WriteLine("Cancelation Token disposed");
-
-        }
         while (!cancellationToken.IsCancellationRequested)
         {
             //task.Calculate();
