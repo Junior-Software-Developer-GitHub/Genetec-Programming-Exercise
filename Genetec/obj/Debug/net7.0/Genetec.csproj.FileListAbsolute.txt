@@ -1,0 +1,15 @@
+D:\Projects\Genetec\Genetec\bin\Debug\net7.0\Genetec.exe
+D:\Projects\Genetec\Genetec\bin\Debug\net7.0\Genetec.deps.json
+D:\Projects\Genetec\Genetec\bin\Debug\net7.0\Genetec.runtimeconfig.json
+D:\Projects\Genetec\Genetec\bin\Debug\net7.0\Genetec.dll
+D:\Projects\Genetec\Genetec\bin\Debug\net7.0\Genetec.pdb
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\Genetec.csproj.AssemblyReference.cache
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\Genetec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\Genetec.AssemblyInfoInputs.cache
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\Genetec.AssemblyInfo.cs
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\Genetec.csproj.CoreCompileInputs.cache
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\Genetec.dll
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\refint\Genetec.dll
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\Genetec.pdb
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\Genetec.genruntimeconfig.cache
+D:\Projects\Genetec\Genetec\obj\Debug\net7.0\ref\Genetec.dll
